@@ -27,5 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingkuys2123&" alt="kingkuys2123" /></p>
 
-
-![Metrics](https://metrics.lecoq.io/kingkuys2123?template=classic&activity=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/kingkuys2123?template=classic&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
