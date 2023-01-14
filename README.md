@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingkuys2123" alt="kingkuys2123" /></a> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java & JavaScript**
 
-- 💬 Ask me about **MineCraft, Java, JavaScript, YouTube, Reddit**
+- 💬 Ask me about **MineCraft, Java, JavaScript, YouTube & Reddit**
 
 - 📫 How to reach me **kylequitco3212@gmail.com**
 
