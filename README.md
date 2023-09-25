@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **kylequitco3212@gmail.com**
 
-- ⚡ Fun fact **🤷**
+- ⚡ Fun fact **I am very friendly 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
