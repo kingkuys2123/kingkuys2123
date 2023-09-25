@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Fighting Games, MineCraft, YouTube & Reddit**
 
-- 📫 How to reach me **kylequitco3212@gmail.com**
+- 📫 How to reach me: **kylequitco3212@gmail.com**
 
 - ⚡ Fun fact **I am very friendly 😋**
 
