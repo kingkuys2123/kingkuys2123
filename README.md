@@ -19,6 +19,7 @@
 <a href="https://www.tiktok.com/@kingkuys2123?lang=en" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/tik-tok-icon-1024x1024-zwq641op.png" alt="uc0_mvjcvg9e1czyjiofs4xq" height="40" width="40" /></a>
 <a href="https://www.reddit.com/user/KingKuys2123" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="uc0_mvjcvg9e1czyjiofs4xq" height="40" width="40" /></a>
 <a href="https://www.twitch.tv/kingkuys2123" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="uc0_mvjcvg9e1czyjiofs4xq" height="40" width="40" /></a>
+<a href="https://steamcommunity.com/id/KingKuys2123/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/steam-icon-2048x2048-rbyixh0f.png" alt="uc0_mvjcvg9e1czyjiofs4xq" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
