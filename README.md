@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm kingkuys2123</h1>
-<h3 align="center">A passionate dude from the Philippines!</h3>
+<h1 align="center">Hi 👋, I'm Kyle Matthew M. Quitco</h1>
+<h3 align="center">A random dude from the Philippines!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingkuys2123" alt="kingkuys2123" /></a> </p>
 
 - 🌱 I’m currently learning **Java & JavaScript**
 
-- 💬 Ask me about **MineCraft, Java, JavaScript, YouTube & Reddit**
+- 💬 Ask me about **Java, Fighting Games, MineCraft, YouTube & Reddit**
 
 - 📫 How to reach me **kylequitco3212@gmail.com**
 
