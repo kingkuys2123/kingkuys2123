@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kingkyle2123" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643777twitter-x%20logo-png-white.png" alt="kingkyle2123" height="40" width="40" /></a>
+<a href="https://twitter.com/kingkyle2123" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643777twitter-x%20logo-png-white.png" alt="kingkyle2123" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/kyle-matthew-quitco-25a064230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyle-matthew-quitco-25a064230" height="30" width="40" /></a>
 <a href="https://fb.com/cooljoer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cooljoer" height="30" width="40" /></a>
 <a href="https://instagram.com/kingkuys2123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingkuys2123" height="30" width="40" /></a>
