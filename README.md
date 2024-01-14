@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Matthew M. Quitco</h1>
-<h3 align="center">A random dude from the Philippines!</h3>
+<h3 align="center">A dude from the Philippines!</h3>
 
 - 🌱 I’m currently learning **Java, HTML & CSS**
 
