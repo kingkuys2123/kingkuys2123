@@ -3,7 +3,7 @@
 
 <br> 
 
-- 🌱 I’m currently learning **Java, HTML & CSS**
+- 🌱 I’m currently learning **Python & Javascript**
 
 - 💬 Ask me about **Java, Fighting Games, MineCraft, YouTube & Reddit**
 
