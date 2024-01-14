@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Javascript**
 
-- 💬 Ask me about **Java, Fighting Games, MineCraft, YouTube & Reddit**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me: **kylequitco3212@gmail.com**
 
