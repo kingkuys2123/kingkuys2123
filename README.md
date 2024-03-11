@@ -149,4 +149,8 @@
 <br>
 <p></p>
 
-![Top Lang](https://github-readme-stats.vercel.app/api?username=kingkuys2123&show_icons=true&theme=synthwave) ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkuys2123&layout=compact&theme=synthwave)
+![Top Lang](https://github-readme-stats.vercel.app/api?username=kingkuys2123&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkuys2123&langs_count=8&show_icons=true&theme=synthwave)
+
+
+
+
