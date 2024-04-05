@@ -141,6 +141,27 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+<a href="#">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</a>&nbsp;&nbsp;
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>&nbsp;&nbsp;
+
+
 <br>
 <br> 
 
