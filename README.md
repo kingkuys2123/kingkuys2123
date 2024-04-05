@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 <a href="https://www.pinterest.ph/kingkuys2123/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinterest-%2523E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&color=red" />
 </a>
 <a href="https://open.spotify.com/user/31zureytsmos3ich2ynns6k2teze">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
@@ -52,7 +52,16 @@
 <a href="https://myanimelist.net/profile/KingKuys2123">
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
 </a>
-<h3 align="left">💻 Languages & Frameworks:</h3>
+<a href="#" title="Username: kingkuys2123">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.threads.net/@kingkuys2123">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/>
+</a>
+<a href="https://www.tumblr.com/blog/kingkuys2123">
+    <img src="	https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
+</a>
+<h3 align="left">💻 Languages, Frameworks, & Libraries:</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
@@ -89,6 +98,9 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>
 <h3 align="left">🔧 Tools:</h3>
 <a href="#">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
@@ -96,7 +108,6 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 </a>
-
 <a href="#">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </a>
@@ -132,6 +143,9 @@
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </a>
 
 <br>
