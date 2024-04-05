@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Django, Android Studio, & Javascript**
 
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me: **kylequitco3212@gmail.com**
-
-- ⚡ Fun fact **I am very friendly 😛**
+- 📫 How to reach me: **kylequitco3212@gmail.com**, **kylematthew.quitco@cit.edu**
 
 <br> 
 
