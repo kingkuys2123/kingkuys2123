@@ -16,12 +16,6 @@
 
 ###
 
-<h2 align="left">Current projects</h2>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MJsica27&repo=WAS)](https://github.com/MJsica27/WAS)
-
-###
-
 <h2 align="left">Connect with me</h2>
 
 <a href="https://www.facebook.com/KingKuys2123/">
@@ -172,6 +166,11 @@
 
 ###
 
+<h2 align="left">Current projects</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MJsica27&repo=WAS)](https://github.com/MJsica27/WAS)
+
+###
 <h2 align="left">Github stats</h2>
 
 <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
