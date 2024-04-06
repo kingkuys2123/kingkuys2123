@@ -169,7 +169,3 @@
 <h2 align="left">Github Stats</h2>
 
 <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
-
-<h1></h1>
-
-###
