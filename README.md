@@ -166,7 +166,3 @@
 <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
 
 <h1></h1>
-
-<a href = "https://github.com/MJsica27/WAS/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=MJsica27/WAS"/>
-</a>
