@@ -122,7 +122,7 @@
 
 ###
 
-<h2 align="left">Tools:</h2>
+<h2 align="left">Tools</h2>
 
 <a href="#">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
@@ -172,6 +172,6 @@
 
 ###
 
-<h2 align="left">Github Stats</h2>
+<h2 align="left">Github stats</h2>
 
 <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
