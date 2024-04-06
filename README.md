@@ -16,6 +16,12 @@
 
 ###
 
+<h2 align="left">Current projects</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MJsica27&repo=WAS)](https://github.com/MJsica27/WAS)
+
+###
+
 <h2 align="left">Connect with me</h2>
 
 <a href="https://www.facebook.com/KingKuys2123/">
@@ -72,7 +78,7 @@
 
 ###
 
-<h2 align="left">Languages, Frameworks, & Libraries</h2>
+<h2 align="left">Languages, frameworks, & libraries</h2>
 
 <a href="#">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
