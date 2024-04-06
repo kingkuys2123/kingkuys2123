@@ -173,4 +173,4 @@
 ###
 <h2 align="left">Github stats</h2>
 
-<a href="#github-stats"><img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"></a>
+<img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" style="pointer-events: none;" alt="reimaginedreadme">
