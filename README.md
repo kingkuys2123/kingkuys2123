@@ -1,17 +1,22 @@
-<h2 align="center">Hi 👋, I'm Kyle Matthew M. Quitco</h1>
-<h3 align="center">A dude from the Philippines!</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h1></h1>
+###
 
-<br> 
+<p align="left">My name is Kyle... and I'm a dude from the Philippines!</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
 - 📫 How to reach me: **kylequitco3212@gmail.com** or **kylematthew.quitco@cit.edu**
 
-<h1></h1>
+###
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
 
 <a href="https://www.facebook.com/KingKuys2123/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -65,9 +70,9 @@
     <img src="	https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
 </a>
 
-<h1></h1>
+###
 
-<h3 align="left">💻 Languages, Frameworks, & Libraries:</h3>
+<h2 align="left">Languages, Frameworks, & Libraries</h2>
 
 <a href="#">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -109,9 +114,9 @@
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
 
-<h1></h1>
+###
 
-<h3 align="left">🔧 Tools:</h3>
+<h2 align="left">Tools:</h2>
 
 <a href="#">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
@@ -159,10 +164,12 @@
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </a>
 
-<h1></h1>
+###
 
-<h3>📊 Github Status:</h3>
+<h2 align="left">Github Stats</h2>
 
 <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
 
 <h1></h1>
+
+###
