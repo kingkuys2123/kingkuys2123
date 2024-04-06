@@ -3,7 +3,7 @@
 
 <br> 
 
-- 🌱 I’m currently learning **Python, Django, Android Studio, & Javascript**
+- 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
 - 📫 How to reach me: **kylequitco3212@gmail.com**, **kylematthew.quitco@cit.edu**
 
