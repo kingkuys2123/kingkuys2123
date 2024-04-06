@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kyle Matthew M. Quitco</h1>
+<h2 align="center">Hi 👋, I'm Kyle Matthew M. Quitco</h1>
 <h3 align="center">A dude from the Philippines!</h3>
+
+<h1></h1>
 
 <br> 
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
-- 📫 How to reach me: **kylequitco3212@gmail.com**, **kylematthew.quitco@cit.edu**
+- 📫 How to reach me: **kylequitco3212@gmail.com** or **kylematthew.quitco@cit.edu**
 
-<br> 
+<h1></h1>
 
 <h3 align="left">🔗 Connect with me:</h3>
+
 <a href="https://www.facebook.com/KingKuys2123/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
@@ -61,7 +64,11 @@
 <a href="https://www.tumblr.com/blog/kingkuys2123">
     <img src="	https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
 </a>
+
+<h1></h1>
+
 <h3 align="left">💻 Languages, Frameworks, & Libraries:</h3>
+
 <a href="#">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
@@ -101,7 +108,11 @@
 <a href="#">
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
+
+<h1></h1>
+
 <h3 align="left">🔧 Tools:</h3>
+
 <a href="#">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 </a>
@@ -148,12 +159,14 @@
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </a>
 
-<br>
-<br> 
+<h1></h1>
 
-<h1 align="center"></h1>
-<h3 align="center">MY GITHUB</h3>
-<br>
-<p></p>
+<h3>📊 Github Status:</h3>
 
-![Top Lang](https://github-readme-stats.vercel.app/api?username=kingkuys2123&show_icons=true&theme=synthwave)
+<img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
+
+<h1></h1>
+
+<a href = "https://github.com/MJsica27/WAS/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=MJsica27/WAS"/>
+</a>
