@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
-- 📫 How to reach me: **kylequitco3212@gmail.com** or **kylematthew.quitco@cit.edu**
+- 📫 How to reach me: <a href="mailto:kylequitco3212@gmail.com" title="kylequitco3212@gmail.com"> GMAIL </a> or <a href="mailto:kylematthew.quitco@cit.edu" title="kylematthew.quitco@cit.edu"> MICROSOFT OUTLOOK</a>
 
 ###
 
@@ -21,7 +21,10 @@
 <a href="https://www.facebook.com/KingKuys2123/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/home">
+<a href="https://m.me/KingKuys2123">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+</a>
+<a href="https://x.com/KingKuys2123">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kyle-matthew-quitco-25a064230/">
@@ -67,50 +70,56 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/>
 </a>
 <a href="https://www.tumblr.com/blog/kingkuys2123">
-    <img src="	https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
+</a>
+<a href="battlenet://invite/KingKuys2123">
+    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
+</a>
+<a href="#connect-with-me" title="Username: KingKuys2123">
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
 </a>
 
 ###
 
 <h2 align="left">Languages, frameworks, & libraries</h2>
 
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </a>
-<a href="#">
+<a href="#languages-frameworks--libraries">
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
 
@@ -118,49 +127,49 @@
 
 <h2 align="left">Tools</h2>
 
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-<a href="#">
+<a href="#tools">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </a>
 
@@ -173,6 +182,6 @@
 ###
 <h2 align="left">Github stats</h2>
 
-<a href="#">
+<a href="#github-stats">
     <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
 </a>
