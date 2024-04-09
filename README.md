@@ -16,7 +16,7 @@
   
 - 🤝 Enjoys hanging out and chilling
 
-- 🎮 Avid gamer who loves to immerse in gaming worlds
+- 🎮 Avid gamer of **[Minecraft](https://www.minecraft.net/en-us)** and **[VRChat](https://vrchat.com/home/user/usr_783f0d71-d0a6-4f8e-b710-70616c7205a4)**
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
@@ -73,6 +73,12 @@
 </a>
 <a href="#" title="Username: kingkuys2123">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://vrchat.com/home/user/usr_783f0d71-d0a6-4f8e-b710-70616c7205a4">
+    <img src="https://img.shields.io/badge/VRChat-fffff?style=for-the-badge&logo=VRchat&color=black"/>
+</a>
+<a href="https://www.curseforge.com/members/kingkuys2123/projects">
+    <img src="https://img.shields.io/badge/CurseForge-fffff?style=for-the-badge&logo=CurseForge&color=black"/>
 </a>
 <a href="https://www.threads.net/@kingkuys2123">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/>
