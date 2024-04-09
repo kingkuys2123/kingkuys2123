@@ -72,12 +72,6 @@
 <a href="https://www.tumblr.com/blog/kingkuys2123">
     <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
 </a>
-<a href="battlenet://invite/KingKuys2123">
-    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
-</a>
-<a href="#connect-with-me" title="Username: KingKuys2123">
-    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
-</a>
 
 ###
 
