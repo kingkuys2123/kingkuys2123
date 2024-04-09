@@ -16,7 +16,7 @@
   
 - 🤝 Enjoys hanging out and chilling
 
-- 🎮 Avid gamer who loves to immerse in virtual worlds
+- 🎮 Avid gamer who loves to immerse in gaming worlds
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
