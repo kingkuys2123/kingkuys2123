@@ -10,9 +10,17 @@
 
 ###
 
+- 💃🎤🎵 Passionate about dance, singing, and music
+
+- 🌟 Super extroverted and easy to connect with
+  
+- 🤝 Enjoys hanging out and chilling
+
+- 🎮 Avid gamer who loves to immerse in virtual worlds
+
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
-- 📫 How to reach me: <a href="mailto:kylequitco3212@gmail.com" title="kylequitco3212@gmail.com"> GMAIL </a> or <a href="mailto:kylematthew.quitco@cit.edu" title="kylematthew.quitco@cit.edu"> MICROSOFT OUTLOOK</a>
+- 📫 Reach me through email: <a href="mailto:kylequitco3212@gmail.com" title="kylequitco3212@gmail.com"> GMAIL </a> or <a href="mailto:kylematthew.quitco@cit.edu" title="kylematthew.quitco@cit.edu"> MICROSOFT OUTLOOK</a>
 
 ###
 
