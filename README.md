@@ -4,6 +4,8 @@
 
 <p align="center">My name is Kyle... and I'm a dude from the Philippines!</p>
 
+<br>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -21,6 +23,8 @@
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
 - 📫 Reach me through email: <a href="mailto:kylequitco3212@gmail.com" title="kylequitco3212@gmail.com"> GMAIL </a> or <a href="mailto:kylematthew.quitco@cit.edu" title="kylematthew.quitco@cit.edu"> MICROSOFT OUTLOOK</a>
+
+<br>
 
 ###
 
@@ -87,6 +91,10 @@
     <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>
 </a>
 
+<br>
+
+<br>
+
 ###
 
 <h2 align="left">Languages, frameworks, & libraries</h2>
@@ -130,6 +138,10 @@
 <a href="#languages-frameworks--libraries">
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
+
+<br>
+
+<br>
 
 ###
 
@@ -181,13 +193,20 @@
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </a>
 
+<br>
+
+<br>
+
 ###
 
 <h2 align="left">Current projects</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MJsica27&repo=WAS)](https://github.com/MJsica27/WAS)
 
+<br>
+
 ###
+
 <h2 align="left">Github stats</h2>
 
 <a href="#github-stats">
