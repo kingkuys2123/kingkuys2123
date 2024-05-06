@@ -201,7 +201,6 @@
 
 <h2 align="left">Current projects</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kingkuys2123&repo=PasaFit)](https://github.com/kingkuys2123/PasaFit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MJsica27&repo=WAS)](https://github.com/MJsica27/WAS)
 
 <br>
