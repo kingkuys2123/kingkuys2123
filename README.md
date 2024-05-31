@@ -200,7 +200,7 @@
 ###
 
 <h2 align="left">Current projects</h2>
-None at the moment...
+<p align="center">None at the moment...</p>
   
 <br>
 
