@@ -200,7 +200,8 @@
 ###
 
 <h2 align="left">Current projects</h2>
-
+None at the moment...
+  
 <br>
 
 ###
