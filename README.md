@@ -13,12 +13,10 @@
 ###
 
 - 💃🎤🎵 Passionate about dance, singing, and music
-
-- 🌟 Super extroverted and easy to connect with
   
 - 🤝 Enjoys hanging out and chilling
 
-- 🎮 Avid gamer of **[Minecraft](https://www.minecraft.net/en-us)** and **[VRChat](https://vrchat.com/home/user/usr_783f0d71-d0a6-4f8e-b710-70616c7205a4)**
+- 🎮 Avid gamer of **[Minecraft](https://www.minecraft.net/en-us)**
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
