@@ -12,7 +12,7 @@
 
 ###
 
-- 💃🎤🎵 Passionate about dance, singing, and music
+- 💃🎤🎵 Passionate about music
   
 - 🤝 Enjoys hanging out and chilling
 
