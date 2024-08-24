@@ -20,8 +20,6 @@
 
 - 🌱 I’m currently learning **Python, Django, Android, & Javascript**
 
-- 📫 Reach me through email: <a href="mailto:kylequitco3212@gmail.com" title="kylequitco3212@gmail.com"> GMAIL </a> or <a href="mailto:kylematthew.quitco@cit.edu" title="kylematthew.quitco@cit.edu"> MICROSOFT OUTLOOK</a>
-
 <br>
 
 ###
