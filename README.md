@@ -12,13 +12,11 @@
 
 ###
 
-- 💃🎤🎵 Passionate about music
-  
-- 🤝 Enjoys hanging out and chilling
-
-- 🎮 Avid gamer of **[Minecraft](https://www.minecraft.net/en-us)**
-
-- 🌱 I’m currently learning **React, Springboot & Axios**
+🎵 | Music is Lifer
+🌑 | Awkwardly Ambivert
+🏴 | Enjoys Chilling and Hanging out
+🖤 | Single
+🖊️ | Currently learning **Springboot, React & Axios**
 
 <br>
 
