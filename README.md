@@ -12,11 +12,11 @@
 
 ###
 
-🎵 | Music is Lifer <br>
-🌑 | Awkwardly Ambivert <br>
-🏴 | Enjoys Chilling and Hanging out <br>
-🖤 | Single <br>
-🖊️ | Currently learning **Springboot, React & Axios**
+🎵ㅤ|ㅤMusic is Lifer <br>
+🌑ㅤ|ㅤAmbivert <br>
+🏴ㅤ|ㅤChilling and Hanging out <br>
+🖤ㅤ|ㅤSingle <br>
+🖊️ㅤ|ㅤCurrently learning **Springboot, React & Axios**
 
 <br>
 
