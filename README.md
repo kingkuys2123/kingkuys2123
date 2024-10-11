@@ -205,5 +205,10 @@
 <h2 align="left">Github stats</h2>
 
 <a href="#github-stats">
-    <img src="https://myreadme.vercel.app/api/embed/kingkuys2123?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingkuys2123" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingkuys2123&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </a>
