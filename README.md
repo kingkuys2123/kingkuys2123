@@ -18,7 +18,7 @@
 
 - 🎮 Avid gamer of **[Minecraft](https://www.minecraft.net/en-us)**
 
-- 🌱 I’m currently learning **Python, Django, Android, & Javascript**
+- 🌱 I’m currently learning **React, Springboot & Axios**
 
 <br>
 
@@ -134,6 +134,15 @@
 <a href="#languages-frameworks--libraries">
  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
+<a href="#languages-frameworks--libraries">
+ <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</a>
+<a href="#languages-frameworks--libraries">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+<a href="#languages-frameworks--libraries">
+ <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+</a>
 
 <br>
 
@@ -187,6 +196,12 @@
 </a>
 <a href="#tools">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>
+<a href="#tools">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+</a>
+<a href="#tools">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </a>
 
 <br>
