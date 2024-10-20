@@ -15,7 +15,6 @@
 🎵ㅤ|ㅤMusic is Lifer <br>
 🌑ㅤ|ㅤAmbivert <br>
 🏴ㅤ|ㅤChilling and Hanging out <br>
-🖤ㅤ|ㅤSingle <br>
 🖊️ㅤ|ㅤCurrently learning **Springboot, React & Axios**
 
 <br>
