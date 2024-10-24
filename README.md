@@ -191,6 +191,9 @@
 <a href="#tools">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </a>
+<a href="#tools">
+    <img src="https://img.shields.io/badge/ClickUp-white?style=for-the-badge&logo=ClickUp&logoColor=black" />
+</a>
 
 <br>
 
