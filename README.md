@@ -131,6 +131,12 @@
 <a href="#languages-frameworks--libraries">
  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
 </a>
+<a href="#languages-frameworks--libraries">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+</a>
+<a href="#languages-frameworks--libraries">
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</a>
 
 <br>
 
