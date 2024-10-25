@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Kyle... and I'm a dude from the Philippines!</p>
+<p align="center">My name is Kyle... and I'm a dude from the Philippines!!</p>
 
 <br>
 
