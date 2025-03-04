@@ -204,16 +204,6 @@
 
 ###
 
-<h2 align="left">Current projects</h2>
-
-<!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingkuys2123&repo=EMPS)](https://github.com/kingkuys2123/EMPS) --->
-
-<p align="center">None at the moment...</p>
-  
-<br>
-
-###
-
 <h2 align="left">Github stats</h2>
 
 <a href="#github-stats">
