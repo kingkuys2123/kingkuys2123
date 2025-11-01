@@ -217,24 +217,24 @@
 <div align="center">
     <!-- SoundState Repo -->
     <a href="https://github.com/kingkuys2123/wue#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=github_dark#gh-dark-mode-only" alt="WUE Repo">
     </a>
     <a href="https://github.com/kingkuys2123/wue#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=vue#gh-light-mode-only" alt="SoundState Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=vue#gh-light-mode-only" alt="WUE Repo">
     </a>
     <!-- LeetCode Java Repo -->
     <a href="https://github.com/kingkuys2123/was#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=github_dark#gh-dark-mode-only" alt="WAS Repo">
     </a>
     <a href="https://github.com/kingkuys2123/was#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=vue#gh-light-mode-only" alt="WAS Repo">
     </a>
     <!-- Github Readme Daily Quotes Repo -->
     <a href="https://github.com/pawekz/SERV-IT-MANAGER#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=pawekz&repo=SERV-IT-MANAGER&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=pawekz&repo=SERV-IT-MANAGER&theme=github_dark#gh-dark-mode-only" alt="SERV-IT MANAGER Repo">
     </a>
     <a href="https://github.com/pawekz/SERV-IT-MANAGER#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=pawekz&repo=SERV-IT-MANAGER&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=pawekz&repo=SERV-IT-MANAGER&theme=vue#gh-light-mode-only" alt="SERV-IT MANAGER Repo">
     </a>
 </div>
 
