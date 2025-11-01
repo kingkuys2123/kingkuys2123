@@ -1,23 +1,31 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<a href="#">
+  <img align="right" src="https://komarev.com/ghpvc/?username=kingkuys2123&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+<h1 align="center">Hey, What's up? 👋 </h1>
 
 ###
 
-<p align="center">My name is Kyle... and I'm a dude from the Philippines!!</p>
+<p align="center">I am a full stack web app developer from the <strong>Philippines</strong></p>
 
 <br>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
+ 
+<p>
+ <img align="right" width="350" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding gif" />
+  
+ 🤝 &emsp; Enjoy chilling and hanging out <br/><br/>
+ ❤️ &emsp; Love to write code and learn new features<br/><br/>
+ 📧 &emsp; Reach me anytime: kylequito3212@gmail.com<br/><br/>
 
-###
+</p>
 
-🎵ㅤ|ㅤMusic is Lifer <br>
-🌑ㅤ|ㅤAmbivert <br>
-🏴ㅤ|ㅤChilling and Hanging out <br>
-🖊️ㅤ|ㅤCurrently learning **Springboot, React & Axios**
-
-<br>
+<br/>
+<br/>
+<br/>
 
 ###
 <!---
@@ -204,13 +212,39 @@
 
 ###
 
-<h2 align="left">Github stats</h2>
+<h2 align="left">Featured Projects</h2>
 
-<a href="#github-stats">
-  <a href="#github-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingkuys2123" />
-  </a>
-  <a href="#github-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingkuys2123&layout=compact&langs_count=8&card_width=320" />
-  </a>
+<div align="center">
+    <!-- SoundState Repo -->
+    <a href="https://github.com/kingkuys2123/wue#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/kingkuys2123/wue#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=vue#gh-light-mode-only" alt="SoundState Repo">
+    </a>
+    <!-- LeetCode Java Repo -->
+    <a href="https://github.com/kingkuys2123/was#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
+    </a>
+    <a href="https://github.com/kingkuys2123/was#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
+    </a>
+    <!-- Github Readme Daily Quotes Repo -->
+    <a href="https://github.com/pawekz/SERV-IT-MANAGER#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=pawekz&repo=SERV-IT-MANAGER&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
+    <a href="https://github.com/pawekz/SERV-IT-MANAGER#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=pawekz&repo=SERV-IT-MANAGER&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
+</div>
+
+###
+
+<h2 align="left">My Stats</h2>
+
+<a> 
+    <a href="https://github.com/kingkuys2123"><img alt="Kyle's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kingkuys2123&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/kingkuys2123"><img alt="Kyle's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kingkuys2123&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
 </a>
+
