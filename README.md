@@ -217,17 +217,17 @@
 <div align="center">
     <!-- SoundState Repo -->
     <a href="https://github.com/kingkuys2123/wue#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=github_dark#gh-dark-mode-only" alt="WUE Repo">
+        <img src="" alt="WUE Repo">
     </a>
     <a href="https://github.com/kingkuys2123/wue#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=wue&theme=vue#gh-light-mode-only" alt="WUE Repo">
+        <img src="" alt="WUE Repo">
     </a>
     <!-- LeetCode Java Repo -->
     <a href="https://github.com/kingkuys2123/was#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=github_dark#gh-dark-mode-only" alt="WAS Repo">
+        <img src="" alt="WAS Repo">
     </a>
     <a href="https://github.com/kingkuys2123/was#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=kingkuys2123&repo=was&theme=vue#gh-light-mode-only" alt="WAS Repo">
+        <img src="" alt="WAS Repo">
     </a>
     <!-- Github Readme Daily Quotes Repo -->
     <a href="https://github.com/pawekz/SERV-IT-MANAGER#gh-dark-mode-only">
