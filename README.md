@@ -129,10 +129,6 @@ I'm always open to learning, collaborating, and building useful things.
 <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-36C219?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/KingKuys2123">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/kyle-matthew-quitco/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
