@@ -48,7 +48,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 
 </div>
 
-𝐹𝓇𝑜𝓃𝓉𝑒𝓃𝒹 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉
+𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -62,7 +62,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![Axios](https://img.shields.io/badge/axios-671ddf?style=plastic&logo=axios&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
 
-𝐵𝒶𝒸𝓀𝑒𝓃𝒹 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉
+𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFD43B?style=plastic&logo=python&logoColor=blue)
@@ -71,7 +71,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=green)
 
-𝒟𝒶𝓉𝒶𝒷𝒶𝓈𝑒 & 𝐵𝒶𝒸𝓀𝑒𝓃𝒹
+𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦 & 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
@@ -81,7 +81,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=plastic&logo=phpmyadmin&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-𝒞𝓁𝑜𝓊𝒹, 𝒟𝑒𝓋𝒪𝓅𝓈 & 𝒟𝑒𝓅𝓁𝑜𝓎𝓂𝑒𝓃𝓉
+𝘊𝘭𝘰𝘶𝘥, 𝘋𝘦𝘷𝘖𝘱𝘴 & 𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 
 
 ![Docker](https://img.shields.io/badge/docker-2CA5E0?style=plastic&logo=docker&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/amazon_web_services-FF9900?style=plastic&logo=amazonwebservices&logoColor=white)
@@ -105,7 +105,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 
 </div>
 
-𝓥𝓮𝓻𝓼𝓲𝓸𝓷 𝓒𝓸𝓷𝓽𝓻𝓸𝓵 & 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽
+𝘝𝘦𝘳𝘴𝘪𝘰𝘯 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 & 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white)
@@ -114,7 +114,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=plastic&logo=pycharm&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/notepad%2B%2B-90E59A.svg?style=plastic&logo=notepad%2B%2B&logoColor=black)
 
-𝓤𝓘/𝓤𝓧 & 𝓓𝓮𝓼𝓲𝓰𝓷
+𝘜𝘐/𝘜𝘟 𝘋𝘦𝘴𝘪𝘨𝘯
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
@@ -123,7 +123,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![Visual Paradigm](https://img.shields.io/badge/visual_paradigm-0096D6?style=plastic&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/excalidraw-6965DB?style=plastic&logo=excalidraw&logoColor=white)
 
-𝓟𝓻𝓸𝓳𝓮𝓬𝓽 & 𝓟𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓿𝓲𝓽𝔂
+𝘗𝘳𝘰𝘫𝘦𝘤𝘵 & 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘷𝘪𝘵𝘺
 
 ![Notion](https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
@@ -141,7 +141,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 
 </div>
 
-𝓐𝓘 & 𝓟𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓿𝓲𝓽𝔂
+𝘊𝘩𝘢𝘵 & 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘷𝘪𝘵𝘺 
 
 ![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=plastic&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-D97757?style=plastic&logo=claude&logoColor=white)
@@ -150,7 +150,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=plastic&logo=perplexity&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=plastic&logo=googlegemini&logoColor=white)
 
-𝓐𝓘 𝓐𝓰𝓮𝓷𝓽𝓼 & 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽
+𝘈𝘨𝘦𝘯𝘵𝘴, 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 & 𝘊𝘰𝘥𝘪𝘯𝘨
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=plastic&logo=claude&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=plastic&logo=github&logoColor=white)
@@ -164,7 +164,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=plastic&logo=googlegemini&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white)
 
-𝓐𝓾𝓽𝓸𝓶𝓪𝓽𝓲𝓸𝓷 & 𝓦𝓸𝓻𝓴𝓯𝓵𝓸𝔀
+𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯 & 𝘞𝘰𝘳𝘬𝘧𝘭𝘰𝘸
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=plastic&logo=zapier&logoColor=white)
