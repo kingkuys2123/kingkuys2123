@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/github/stars/KingKuys2123?style=flat-square&color=36C219&label=STARS"/>
 </p>
 
+![https://mynickname.com/id1846450](https://mynickname.com/forum3t9/KingKuys2123.gif)
+
 <br/>
 
 ###
@@ -170,7 +172,7 @@ I'm always open to learning, collaborating, and building useful things.
 </a>
 
 <a href="https://www.linkedin.com/in/kyle-matthew-quitco/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-36C219?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://kingkuys2123.github.io/MyPortfolio/">
@@ -184,6 +186,5 @@ I'm always open to learning, collaborating, and building useful things.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36C219,40:1B5E20,70:161B22,100:050505&height=150&section=footer&animation=fadeIn" width="100%"/>
-
 
 </div>
