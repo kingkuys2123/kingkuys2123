@@ -119,7 +119,7 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A.svg?style=plastic&logo=notepad%2B%2B&logoColor=black)
 
-𝘜𝘐/𝘜𝘟 𝘋𝘦𝘴𝘪𝘨𝘯
+𝘜𝘐/𝘜𝘟 𝘋𝘦𝘴𝘪𝘨𝘯𝘴 & 𝘋𝘪𝘢𝘨𝘳𝘢𝘮𝘴
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
