@@ -209,7 +209,13 @@ I’m also exploring AI, LLMs, and automation to build smarter and more efficien
 
 <a href="https://kingkuys2123.github.io/MyPortfolio/">
 
-<img src="https://img.shields.io/badge/PORTFOLIO-36C219?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-36C219?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+<a href="https://www.stackinfolio.dev/kingkuys2123">
+
+<img src="https://img.shields.io/badge/stackinfolio-36C219?style=for-the-badge&logoColor=white"/>
 
 </a>
 
